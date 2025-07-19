@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Book Management Admin Panel
 
 A lightweight PHP & MySQL-based admin dashboard for managing books, categories, and image galleries. Styled using Bootstrap 5 with a colored theme.
@@ -17,3 +18,6 @@ A lightweight PHP & MySQL-based admin dashboard for managing books, categories, 
 - Simple, clean UI with consistent styling
 
 ## 🗂️ Folder Structure
+=======
+# library
+>>>>>>> a84ccbd757ed8927346c2b07bffbd29bdebc533f
